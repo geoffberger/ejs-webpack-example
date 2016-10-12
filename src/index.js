@@ -1,4 +1,4 @@
-var tmpl = require('ejs!./templates/example.ejs');
+var tmpl = require('./templates/example.ejs');
 var data = {
   name: 'Lebowski',
   drink: 'white russian',
